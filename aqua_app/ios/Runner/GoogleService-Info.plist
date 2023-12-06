@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAT7A9Vt4gQw68yxoF5fLH4Y0az5P0GCGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27630119847</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aquaApp</string>
+	<key>PROJECT_ID</key>
+	<string>aqua-app-fb6cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aqua-app-fb6cc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27630119847:ios:fd56a67fa31d0d137be482</string>
+</dict>
+</plist>
