@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: const HiddenDrawer(), // Use HiddenDrawer as the main screen
+      title: 'Flutter Demo',
       theme: ThemeData(
         textTheme: const TextTheme(
           bodyMedium: TextStyle(fontFamily: 'Arial'),
