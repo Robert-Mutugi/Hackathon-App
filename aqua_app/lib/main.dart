@@ -55,9 +55,9 @@ class MyApp extends StatelessWidget {
         textTheme: const TextTheme(
           bodyMedium: TextStyle(fontFamily: 'Arial'),
         ),
-        primaryColor: Colors.blue, // Set the primary color directly
+        primaryColor: const Color.fromRGBO(0, 190, 231, 80), // Set the primary color directly
         appBarTheme: const AppBarTheme(
-          color: Colors.lightBlue,
+          color: Color.fromRGBO(0, 190, 231, 80),
           foregroundColor: Colors.white,
         ),
       ),
@@ -120,7 +120,7 @@ class _HiddenDrawerState extends State<HiddenDrawer> {
   Widget build(BuildContext context) {
     return HiddenDrawerMenu(
       screens: _pages,
-      backgroundColorMenu: Colors.blueAccent,
+      backgroundColorMenu: const Color.fromRGBO(0, 190, 231, 80),
       slidePercent: 55,
       verticalScalePercent: 90,
       initPositionSelected: 0,
